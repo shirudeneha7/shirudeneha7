@@ -11,3 +11,4 @@ Few tech that I enjoy working in a Python,plotly,Seaborn,sklearn and tensorflow.
 [Name of your project](github link)
 
 ### Skills
+Python
